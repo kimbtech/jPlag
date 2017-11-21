@@ -1,3 +1,7 @@
+>
+> **This Repository is just a fork from [jplag/jplag](https://github.com/jplag/jplag), for Backup purposes**
+>
+
 # Download and Run JPlag
 Download a released version - all releases are single-JAR releases.
 
